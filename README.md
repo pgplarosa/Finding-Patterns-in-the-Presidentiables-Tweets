@@ -1,6 +1,6 @@
 # Finding Patterns in the Presidentiables Tweets
 
-<p align="justify">Machine Learning Final Project by Gabriel Lorenzo Cadena, Amos Changcoco, Patrick Guillano La Rosa, Maria Elvira Paderes, Geriandre Piquero, Bonnie Jenniedy Ruiz - December 04, 2021. The code, analysis, and the full report are included in the <a href="https://github.com/pgplarosa/Finding-Patterns-in-the-Presidentiables-Tweets/blob/main/ML2%20Final%20Report.ipynb">Technical Report</a>. If you have any questions regarding this study, please send me a message via  <a href="https://www.linkedin.com/in/patricklarosa/">LinkedIn</a>.</p>
+<p align="justify">Machine Learning Final Project by Gabriel Lorenzo Cadena, Amos Changcoco, Patrick Guillano La Rosa, Maria Elvira Paderes, Geriandre Piquero, Bonnie Jenniedy Ruiz - December 04, 2021. The code, analysis, and the full report are included in the <a href="https://github.com/pgplarosa/Finding-Patterns-in-the-Presidentiables-Tweets/blob/main/ML2%20Final%20Report.html">Technical Report</a>. If you have any questions regarding this study, please send me a message via  <a href="https://www.linkedin.com/in/patricklarosa/">LinkedIn</a>.</p>
 
 <img src="./outputs/header.png" width=100% />
 
